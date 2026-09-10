@@ -1,0 +1,7 @@
+# Obsidian notes (internal workspace — not part of deployed site)
+AURELIA Vault/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+*.swp
